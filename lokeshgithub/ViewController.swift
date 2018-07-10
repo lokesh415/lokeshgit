@@ -15,14 +15,21 @@ class ViewController: UIViewController {
     
     let names = "Suraj"
     
+    @IBOutlet weak var textfield: UITextField!
+    
+    @IBOutlet weak var label: UILabel!
     let value = "600"
     let company = "BRN"
     override func viewDidLoad() {
        
         super.viewDidLoad()
+        label.text = "Welcome"
       
     }
 
+    @IBAction func onSubmit(_ sender: Any) {
+        label.text = textfield.text
+    }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
