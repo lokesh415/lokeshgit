@@ -15,6 +15,7 @@
 		9D8F603720EA37E3001DF487 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D8F603520EA37E3001DF487 /* LaunchScreen.storyboard */; };
 		9D8F604220EA37E3001DF487 /* lokeshgithubTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D8F604120EA37E3001DF487 /* lokeshgithubTests.swift */; };
 		9D8F604D20EA37E3001DF487 /* lokeshgithubUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D8F604C20EA37E3001DF487 /* lokeshgithubUITests.swift */; };
+		9DB86B9420F47C5A00227BF5 /* secViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DB86B9320F47C5900227BF5 /* secViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		9D8F604820EA37E3001DF487 /* lokeshgithubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = lokeshgithubUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D8F604C20EA37E3001DF487 /* lokeshgithubUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lokeshgithubUITests.swift; sourceTree = "<group>"; };
 		9D8F604E20EA37E3001DF487 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9DB86B9320F47C5900227BF5 /* secViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				9D8F603520EA37E3001DF487 /* LaunchScreen.storyboard */,
 				9D8F603820EA37E3001DF487 /* Info.plist */,
 				9D8F603020EA37E3001DF487 /* lokeshgithub.xcdatamodeld */,
+				9DB86B9320F47C5900227BF5 /* secViewController.swift */,
 			);
 			path = lokeshgithub;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9DB86B9420F47C5A00227BF5 /* secViewController.swift in Sources */,
 				9D8F603220EA37E3001DF487 /* lokeshgithub.xcdatamodeld in Sources */,
 				9D8F602C20EA37E3001DF487 /* ViewController.swift in Sources */,
 				9D8F602A20EA37E3001DF487 /* AppDelegate.swift in Sources */,
