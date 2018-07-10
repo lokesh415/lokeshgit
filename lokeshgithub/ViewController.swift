@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
  var name = "mahesh"
-    
+    var lov = "89"
     var name2 = "vinod"
     
     let names = "Suraj"
