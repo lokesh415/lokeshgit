@@ -15,6 +15,7 @@ class ViewController: UIViewController {
     var sath = "satesh"
     let names = "Suraj"
     var lok = "loki"
+    var loki = "lokesh"
     @IBOutlet weak var textfield: UITextField!
     
     @IBOutlet weak var label: UILabel!
