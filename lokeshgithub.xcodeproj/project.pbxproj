@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4358EF9920F47CE00064173B /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4358EF9820F47CE00064173B /* ThirdViewController.swift */; };
 		9D8F602A20EA37E3001DF487 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D8F602920EA37E3001DF487 /* AppDelegate.swift */; };
 		9D8F602C20EA37E3001DF487 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D8F602B20EA37E3001DF487 /* ViewController.swift */; };
 		9D8F602F20EA37E3001DF487 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D8F602D20EA37E3001DF487 /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4358EF9820F47CE00064173B /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		9D8F602620EA37E2001DF487 /* lokeshgithub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lokeshgithub.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D8F602920EA37E3001DF487 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9D8F602B20EA37E3001DF487 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				9D8F603820EA37E3001DF487 /* Info.plist */,
 				9D8F603020EA37E3001DF487 /* lokeshgithub.xcdatamodeld */,
 				9DB86B9320F47C5900227BF5 /* secViewController.swift */,
+				4358EF9820F47CE00064173B /* ThirdViewController.swift */,
 			);
 			path = lokeshgithub;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 			files = (
 				9DB86B9420F47C5A00227BF5 /* secViewController.swift in Sources */,
 				9D8F603220EA37E3001DF487 /* lokeshgithub.xcdatamodeld in Sources */,
+				4358EF9920F47CE00064173B /* ThirdViewController.swift in Sources */,
 				9D8F602C20EA37E3001DF487 /* ViewController.swift in Sources */,
 				9D8F602A20EA37E3001DF487 /* AppDelegate.swift in Sources */,
 			);

@@ -144,10 +144,10 @@
             </objects>
             <point key="canvasLocation" x="552.79999999999995" y="121.88905547226388"/>
         </scene>
-        <!--View Controller-->
+        <!--Third View Controller-->
         <scene sceneID="mN6-4g-xU0">
             <objects>
-                <viewController id="tkf-rr-pou" sceneMemberID="viewController">
+                <viewController id="tkf-rr-pou" customClass="ThirdViewController" customModule="lokeshgithub" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="4EO-gi-QuT">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
