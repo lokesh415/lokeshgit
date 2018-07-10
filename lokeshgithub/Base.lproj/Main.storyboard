@@ -43,6 +43,14 @@
                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qWu-4z-Hu7">
+                                <rect key="frame" x="141" y="246" width="85" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.2850283099" green="0.25335300999999999" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <state key="normal" title="presshere">
+                                    <color key="titleColor" red="0.63966864300000004" green="1" blue="0.83234716580000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" name="keyboardFocusIndicatorColor" catalog="System" colorSpace="catalog"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
