@@ -12,7 +12,7 @@ class ViewController: UIViewController {
  var name = "mahesh"
     var lov = "89"
     var name2 = "vinod"
-    
+    var sath = "satesh"
     let names = "Suraj"
     
     @IBOutlet weak var textfield: UITextField!
