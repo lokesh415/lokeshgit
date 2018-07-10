@@ -12,6 +12,8 @@ class ViewController: UIViewController {
  var name = "mahesh"
     
     var name2 = "vinod"
+    
+    let names = "Suraj"
     override func viewDidLoad() {
        
         super.viewDidLoad()
